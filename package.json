@@ -1,0 +1,14 @@
+{
+  "name": "react-dr-backend",
+  "version": "1.0.0",
+  "description": "backend for dr-app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nandana",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
